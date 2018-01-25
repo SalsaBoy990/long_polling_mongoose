@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "escape-html": "^1.0.3",
     "mongoose": "^5.0.1",
     "standard": "^10.0.3",
     "utf8": "^3.0.0",
